@@ -1,0 +1,36 @@
+Compound,Molecular ion,Exact mass,Possible precursor,Quantification
+iOS139,C2H3SO5−,"138,9707",Isoprene,ΗAS
+iOS167,C4H7SO5−,"167,0014","ΜΑCR, MVK",HAS
+iOS171,C3H7SO6-,"170,9969",Isoprene,ΗAS
+iOS183,C4H7SO6−,"182,9963","Isoprene, MACR, MVK",LAS
+iOS185,C3H5SO7-,"184,9761",Isoprene,LAS
+iOS197,C5H9SO6−,"197,0112","Isoprene, MACR, MVK",LAS
+iOS199,C4H7SO7−,"198,9918","Isoprene, MVK",LAS
+iOS211,C5H7SO7−,"210,9918",Isoprene,LAS
+iOS213,C5H9SO7−,"213,0074",Isoprene,LAS
+iOS215,C5H11SO7−,"215,0231",Isoprene,LAS
+iOS229,C5H9SO8-,"229,0024",Isoprene,LAS
+iOS231,C5H11SO8-,231018,Isoprene,LAS
+mtOS249,C10H17 SO5-,"249,0802",Monoterpenes,10-CSA
+mtOS251,C9H15SO6-,"251,0589","Limonene, β-caryophyllene",10-CSA
+mtOS267,C9H15SO7-,"267,0544","Limonene, α-pinene",10-CSA
+mtOS279,C10H15 SO7-,"279,0544",Monoterpenes,10-CSA
+mtOS281,C9H14O8S -,"281,0338",Α-Pinene,10-CSA
+iNOS260,C5H10NSO9−,"260,0082",Isoprene,OctS
+mtNOS294,C10H16NSO 7−,"294,0653",Monoterpenes,OctS
+lNOS296,C9H14NSO8−,"296,0446",Limonene,OctS
+mtNOS310,C10H16NSO8−,"310,0602",α+β-Pinene,OctS
+dNOS326,C10H16NSO9−,"326,0551",decalin,ΟctS
+napOS257,C10H9SO6−,"257,0139",naphthalene,PhS
+napOS273,C10H9SO8−,"273,0063",naphthalene,PhS
+napOS275,C10H11SO8−,"275,0228",naphthalene,PhS
+napOS320,C10H10NSO9−,"320,0021",naphthalene,PhS
+mnapOS217,C6H4NSO6−,"217,9751",2-methylnaphthalene,PhS
+mnapOS231,C9H11SO5−,"231,0333",2-methylnaphthalene,PhS
+mnapOS287,C11H11SO7−,"287,0243",2-methylnaphthalene,PhS
+mnapOS289,C11H13SO7−,"289,0387",2-methylnaphthalene,PhS
+cdOS251,C10H19 SO5-,251095,cyclodecane,OctS
+cdOS265,C10H17SO6−,"265,0751",cyclodecane,OctS
+dOS269,C9H17SO7−,"269,07",decalin,OctS
+dOS295,C10H15SO8−,"295,0493",decalin,OctS
+doOS279,C12H23SO5−,"279,1272",dodecane,OctS
